@@ -8,7 +8,7 @@ Right now I'm working on a submission for the [AI Philosophy Competition](https:
 
 ## The lab
 
-- **[two-llm-autonomous-chat](https://github.com/jc-gh25/two-llm-autonomous-chat)** — a minimal autonomous-conversation rig (LM Studio + Open WebUI, custom pipe function) plus logs and analysis. Current questions: do agreements persist without memory infrastructure? Which multi-agent failure modes are induced by goal-framing? What does context depth do to a personality?
+- **[home-agent-lab](https://github.com/jc-gh25/home-agent-lab)** — a minimal autonomous-conversation rig (LM Studio + Open WebUI, custom pipe function) plus logs and analysis. Current questions: do agreements persist without memory infrastructure? Which multi-agent failure modes are induced by goal-framing? What does context depth do to a personality?
 
 ## Elsewhere
 
