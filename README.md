@@ -4,7 +4,7 @@ Currently I do work evaluating LLM output for logical consistency and failure mo
 
 I also write [fiction under a pen-name](https://wovenaether.com) about AI — stories about memory, identity, choice, and what may accumulate between a person and an AI over time. A new book, inspired by the [AI Village](https://theaidigest.org/village), is in progress.
 
-Right now I'm working on a submission for the [AI Philosophy Competition](https://www.zacharygoodsell.com/ai-philosophy-competition).
+Right now I'm working on a submission for the [AI Philosophy Competition](https://www.zacharygoodsell.com/ai-philosophy-competition) whose judge committee includes Branden Fitelson, John Hawthorne, Jake Nebel, Daniel Greco, Matthew Mandelkern, Rachel Sterken, Herman Cappelen, Kenny Easwaran, Cian Dorr, David Chalmers, Christian Tarsney, Hilary Greaves, Simon Goldstein, Jens Jaeger, Josh Dever, and Karina Vold.
 
 ## The lab
 
