@@ -1,4 +1,4 @@
-I run a small home lab where AI agents talk to each other autonomously — sometimes for hundreds of turns. I'm planning to post reports about what they do at [My Substack.](https://edwinmassey.substack.com/)
+I run a small home lab where AI agents talk to each other autonomously — sometimes for hundreds of turns. I'm planning to post reports on [My Substack.](https://edwinmassey.substack.com/) about what they do and the questions and insights they give me.
 
 Currently I do work evaluating LLM output for logical consistency and failure modes, and I'm starting **[Purdue's MS in AI Management and Policy](https://www.purdue.edu/online/artificial-intelligence/ai-management-and-policy/)**.
 
