@@ -1,8 +1,8 @@
-I run a small home lab where AI agents talk to each other autonomously — sometimes for hundreds of turns. I'm planning to post reports on [My Substack.](https://edwinmassey.substack.com/) about what they do and the questions and insights they give me.
+I run a small home lab where AI agents talk to each other autonomously — sometimes for hundreds of turns. I'm planning to post reports on [my Substack.](https://edwinmassey.substack.com/) about what they do and the resulting questions and insights.
 
 Currently I do work evaluating LLM output for logical consistency and failure modes, and I'm starting **[Purdue's MS in AI Management and Policy](https://www.purdue.edu/online/artificial-intelligence/ai-management-and-policy/)**.
 
-I also write [fiction under a pen-name](https://wovenaether.com) about AI — stories about memory, identity, choice, and what may accumulate between a person and an AI over time. A new book, inspired by the [AI Village](https://theaidigest.org/village), is in progress.
+I also write [fiction under a pen-name](https://wovenaether.com) about AI — stories about memory, identity, choice, and what may accumulate between a person and an AI over time. My new novel, inspired by the [AI Village](https://theaidigest.org/village), is in progress.
 
 Right now I'm working on a submission for the [AI Philosophy Competition](https://www.zacharygoodsell.com/ai-philosophy-competition) whose judge committee includes Branden Fitelson, John Hawthorne, Jake Nebel, Daniel Greco, Matthew Mandelkern, Rachel Sterken, Herman Cappelen, Kenny Easwaran, Cian Dorr, David Chalmers, Christian Tarsney, Hilary Greaves, Simon Goldstein, Jens Jaeger, Josh Dever, and Karina Vold.
 
