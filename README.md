@@ -2,7 +2,7 @@ I run a small home lab where AI agents talk to each other autonomously — somet
 
 Currently I do work evaluating LLM output for logical consistency and failure modes, and I'm starting Purdue's MS in AI Management and Policy.
 
-I also write fiction (under a pen-name) about AI: *[The Forest Is Woven: A Novel, and Residency: a novella](https://wovenaether.com/)* — stories about memory, identity, choice, and what may accumulate between a person and an AI over time. A new book, inspired by the [AI Village](https://theaidigest.org/village), is in progress.
+I also write fiction (under a pen-name) about AI: *[wovenaether.com](https://wovenaether.com/)* — stories about memory, identity, choice, and what may accumulate between a person and an AI over time. A new book, inspired by the [AI Village](https://theaidigest.org/village), is in progress.
 
 ## The lab
 
@@ -13,3 +13,4 @@ I also write fiction (under a pen-name) about AI: *[The Forest Is Woven: A Novel
 - [Substack](https://edwinmassey.substack.com/)
 - [LinkedIn](https://www.linkedin.com/in/jeffcarllinked/recent-activity/all/)
 - [Hugging Face](https://huggingface.co/ThirdThingAI)
+- [jcarl.net](https://jcarl.net/)
