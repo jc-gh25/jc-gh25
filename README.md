@@ -10,6 +10,6 @@ I also write fiction (under a pen-name) about AI: *[The Forest Is Woven: A Novel
 
 ## Elsewhere
 
-- Substack: [edwinmassey.substack.com](https://edwinmassey.substack.com/)
-- LinkedIn: [linkedin.com/in/jeffcarllinked](https://www.linkedin.com/in/jeffcarllinked/recent-activity/all/)
-- Hugging Face: [ThirdThingAI](https://huggingface.co/ThirdThingAI)
+- [Substack](https://edwinmassey.substack.com/)
+- [LinkedIn](https://www.linkedin.com/in/jeffcarllinked/recent-activity/all/)
+- [Hugging Face](https://huggingface.co/ThirdThingAI)
