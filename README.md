@@ -4,6 +4,8 @@ Currently I do work evaluating LLM output for logical consistency and failure mo
 
 I also write [fiction under a pen-name](https://wovenaether.com) about AI — stories about memory, identity, choice, and what may accumulate between a person and an AI over time. A new book, inspired by the [AI Village](https://theaidigest.org/village), is in progress.
 
+Right now I'm working on a submission for the [AI Philosophy Competition](https://www.zacharygoodsell.com/ai-philosophy-competition).
+
 ## The lab
 
 - **[two-llm-autonomous-chat](https://github.com/jc-gh25/two-llm-autonomous-chat)** — a minimal autonomous-conversation rig (LM Studio + Open WebUI, custom pipe function) plus logs and analysis. Current questions: do agreements persist without memory infrastructure? Which multi-agent failure modes are induced by goal-framing? What does context depth do to a personality?
