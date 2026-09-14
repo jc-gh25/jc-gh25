@@ -1,6 +1,6 @@
 I run a small home lab where AI agents talk to each other autonomously — sometimes for hundreds of turns. I'm planning to post reports about what they do at [My Substack.](https://edwinmassey.substack.com/)
 
-Currently I do work evaluating LLM output for logical consistency and failure modes, and I'm starting *Purdue's MS in AI Management and Policy*.
+Currently I do work evaluating LLM output for logical consistency and failure modes, and I'm starting [Purdue's MS in AI Management and Policy](https://www.purdue.edu/online/artificial-intelligence/ai-management-and-policy/).
 
 I also write fiction (under a pen-name) about AI: *[wovenaether.com](https://wovenaether.com/)* — stories about memory, identity, choice, and what may accumulate between a person and an AI over time. A new book, inspired by the [AI Village](https://theaidigest.org/village), is in progress.
 
