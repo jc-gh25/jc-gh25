@@ -10,7 +10,7 @@ I'm also currently preparing a submission for the first [AI Philosophy Competiti
 
 I build local experimental harnesses to study both open-ended agent interactions and narrowly defined tool-use tasks. I retain evidence and document the methods and limitations so that observations can be checked against what actually happened.
 
-- [Home Agent Lab](https://github.com/jc-gh25/home-agent-lab) — a fully logged, two-agent experimental harness built with LM Studio and Open WebUI, including raw run archives and methods documentation.
+- [Autonomous LLM Interactions](https://github.com/jc-gh25/autonomous-llm-interactions) — a fully logged, two-agent experimental harness built with LM Studio and Open WebUI, including raw run archives and methods documentation.
 
   Current questions:
   - Do agents' negotiated agreements persist without a durable shared record?
