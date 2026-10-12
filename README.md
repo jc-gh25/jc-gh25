@@ -1,4 +1,4 @@
-In my spare time I run a small home lab where AI agents talk to one another autonomously — sometimes for hundreds of turns. I upload the model-to-model discussions to Github, and I'm developing field reports to post on [my Substack](https://edwinmassey.substack.com/) about what they do, how their shared history holds or breaks down, and what those interactions suggest about AI in general and 4B to 40B LLMs specifically.
+In my spare time, I run a small local lab where language models interact with one another without ongoing human participation—sometimes for hundreds of turns. I publish the transcripts on GitHub and am developing field reports for [my Substack](https://edwinmassey.substack.com/) about how agreements persist or break down, how context and memory conditions shape the exchanges, and what these observations suggest about the behavior of the models I test, currently in the 4B–40B parameter range.
 
 I'm enrolled in **[Purdue's MS in AI Management and Policy](https://www.purdue.edu/online/artificial-intelligence/ai-management-and-policy/)**, and I work part-time as an LLM analyst.
 
@@ -8,16 +8,18 @@ I'm also currently preparing a submission for the first [AI Philosophy Competiti
 
 ## The lab
 
-I build local experimental harnesses to study both open-ended agent interactions and narrowly defined tool-use tasks. I retain evidence and document the methods and limitations so that observations can be checked against what actually happened.
+I build local experimental harnesses to study sustained model-to-model interactions and narrowly defined tool-use tasks. I retain evidence and document methods and limitations so that interpretations can be checked against the recorded results.
 
-- [Autonomous LLM Interactions](https://github.com/jc-gh25/autonomous-llm-interactions) — a fully logged, two-agent experimental harness built with LM Studio and Open WebUI, including raw run archives and methods documentation.
+- [Autonomous LLM Interactions](https://github.com/jc-gh25/autonomous-llm-interactions) — a logged experimental harness for sustained interaction between two local language-model participants, built with LM Studio and Open WebUI, with raw transcripts and methods documentation.
 
   Current questions:
-  - Do agents' negotiated agreements persist without a durable shared record?
-  - Which apparent multi-agent failure modes change when task framing changes?
-  - How do agents differ when context continuity degrades?
+  - Do negotiated agreements persist without a durable shared record?
+  - Which apparent coordination failures change when task framing changes?
+  - How does participant behavior differ when context continuity degrades?
   - What changes when a harness-maintained shared note survives context-window pressure?
-  - When given a very short, vague prompt and many turns, where do the conversations go?
+  - Where do conversations go when participants receive a short, vague prompt and many turns?
+
+  Planned experiments will extend these interactions to tool use and collaborative tasks.
 
 - [Hermes Agent Model Evaluation](https://github.com/jc-gh25/hermes-agent-model-evaluation) — an experimental local harness for evaluating tool-using models through Hermes Agent. It uses a pinned, rootless Podman container, independent host-side grading, retained local evidence, CSV summaries, and an offline dashboard.
 
