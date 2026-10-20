@@ -1,4 +1,4 @@
-In my spare time, I run a small local lab where language models interact with one another without ongoing human participation—sometimes for hundreds of turns. I publish the transcripts on GitHub and am developing field reports for [my Substack](https://edwinmassey.substack.com/) about how agreements persist or break down, how context and memory conditions shape the exchanges, and what these observations suggest about the behavior of the models I test, currently in the 4B–40B parameter range.
+In my spare time, I run a small local lab where language models interact with one another without ongoing human participation. I publish the transcripts on GitHub and I'm developing field reports for [my Substack](https://edwinmassey.substack.com/) about how agreements persist or break down, how context and memory conditions shape the exchanges, and what these observations suggest about the behavior of the models I test, currently in the 4B–40B parameter range.
 
 I'm enrolled in **[Purdue's MS in AI Management and Policy](https://www.purdue.edu/online/artificial-intelligence/ai-management-and-policy/)**, and I work part-time as an LLM analyst.
 
