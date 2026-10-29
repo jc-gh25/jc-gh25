@@ -1,10 +1,8 @@
 In my spare time, I run a small local lab where language models interact with one another without ongoing human participation. I publish the transcripts on GitHub and I'm developing field reports for [my Substack](https://edwinmassey.substack.com/) about how agreements persist or break down, how context and memory conditions shape the exchanges, and what these observations suggest about the behavior of the models I test, currently in the 4B–40B parameter range.
 
-I'm enrolled in **[Purdue's MS in AI Management and Policy](https://www.purdue.edu/online/artificial-intelligence/ai-management-and-policy/)**, and I work part-time as an LLM analyst.
+I'm a grad student in **[Purdue's MS in AI Management and Policy](https://www.purdue.edu/online/artificial-intelligence/ai-management-and-policy/)** program, and I work part-time as an LLM analyst.
 
 I also write [fiction under a pen name](https://wovenaether.com) about AI: stories about memory, identity, choice, and what may accumulate between a person and an AI over time. A new novel, inspired by the [AI Village](https://theaidigest.org/village), is in progress.
-
-I'm also currently preparing a submission for the first [AI Philosophy Competition](https://www.zacharygoodsell.com/ai-philosophy-competition).
 
 ## The lab
 
