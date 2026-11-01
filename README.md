@@ -4,6 +4,8 @@ I'm a grad student in **[Purdue's MS in AI Management and Policy](https://www.pu
 
 I also write [fiction under a pen name](https://wovenaether.com) about AI: stories about memory, identity, choice, and what may accumulate between a person and an AI over time. A new novel, inspired by the [AI Village](https://theaidigest.org/village), is in progress.
 
+And I recently submitted an entry to the [AI Philosophy Competition: 1st Edition](https://www.zacharygoodsell.com/ai-philosophy-competition), which is funded by Forethought Research.
+
 ## The lab
 
 I build local experimental harnesses to study sustained model-to-model interactions and narrowly defined tool-use tasks. I retain evidence and document methods and limitations so that interpretations can be checked against the recorded results.
